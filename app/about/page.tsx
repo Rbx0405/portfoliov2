@@ -24,7 +24,7 @@ export default function About() {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             <div className="bg-gray-700 rounded p-3 text-center">
-              <span className="text-gray-300">JavaScript</span>
+              <span className="text-gray-300">Python</span>
             </div>
             <div className="bg-gray-700 rounded p-3 text-center">
               <span className="text-gray-300">React/NextJs</span>
@@ -49,16 +49,16 @@ export default function About() {
 
         <div className="bg-gray-800 rounded-lg p-6">
           <h2 className="text-xl font-semibold mb-4 text-gray-200">
-            Education & Certifications
+            Education
           </h2>
           <div className="space-y-4">
             <div>
-              <h3 className="text-gray-200 font-medium">Bachelor's Degree in Computer Science</h3>
-              <p className="text-gray-400">University Name • 2019-2023</p>
+              <h3 className="text-gray-200 font-medium">Bachelor's Degree in Information and Science Engineering</h3>
+              <p className="text-gray-400">New Horizon College of Engineering • 2023-2027</p>
             </div>
             <div>
-              <h3 className="text-gray-200 font-medium">Full Stack Development Certification</h3>
-              <p className="text-gray-400">Platform Name • 2023</p>
+              <h3 className="text-gray-200 font-medium">11th and 12th grade </h3>
+              <p className="text-gray-400">Narayana • 2020-2022 </p>
             </div>
           </div>
         </div>
