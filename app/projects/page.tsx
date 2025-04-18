@@ -1,10 +1,10 @@
 export default function Projects() {
   const projects = [
     {
-      title: 'Project 1',
-      description: 'A brief description of project 1 and its key features. Highlight the main technologies used and the problem it solves.',
-      tech: ['React', 'Node.js', 'MongoDB'],
-      link: 'https://github.com/your-project-1'
+      title: 'Pokedex ',
+      description: 'Made a Pokedex database using Java',
+      tech: ['Java'],
+      link: 'https://github.com/Rbx0405/pokedex'
     },
     {
       title: 'Project 2',
